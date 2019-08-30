@@ -229,7 +229,7 @@ $navbarBackground: $white;
 $navbarBorder: 1px solid $gray-5;
 
 $navbarButtonBackground: lighten($navbarBackground, 3%);
-$navbarButtonBackgroundHighlight: lighten($navbarBackground, 5%);
+$navbarButtonBackgroundHighlight: $black;
 
 $navbar-button-border: $gray-4;
 

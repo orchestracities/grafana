@@ -21,8 +21,8 @@ $blue-base: #3274d9;
 $blue-shade: #1f60c4;
 $red-base: #e02f44;
 $red-shade: #c4162a;
-$green-base: #3eb15b;
-$green-shade: #369b4f;
+$green-base: #0088d1;
+$green-shade: #33bbff;
 
 // Grays
 // -------------------------
@@ -35,7 +35,7 @@ $gray-2: #767980;
 $gray-3: #acb6bf;
 $gray-4: #c7d0d9;
 $gray-5: #dde4ed;
-$gray-6: #e9edf2;
+$gray-6: #b6b6b6;
 $gray-7: #f7f8fa;
 
 $white: #ffffff;
@@ -45,24 +45,24 @@ $white: #ffffff;
 $blue: #0083b3;
 $red: $red-base;
 $yellow: #ff851b;
-$orange: #ff7941;
+$orange: #0088d1;
 $purple: #9954bb;
 $variable: #0083b3;
 
-$brand-primary: #ff7941;
-$brand-success: #3eb15b;
-$brand-warning: #ff7941;
+$brand-primary: #0088d1;
+$brand-success: #0088d1;
+$brand-warning: #0088d1;
 $brand-danger: #e02f44;
 
 $query-red: #e02f44;
-$query-green: #3eb15b;
+$query-green: #0088d1;
 $query-purple: #9954bb;
-$query-orange: #ff7941;
+$query-orange: #0088d1;
 $query-keyword: #3274d9;
 
 // Status colors
 // -------------------------
-$online: #369b4f;
+$online: #33bbff;
 $warn: #f79520;
 $critical: #c4162a;
 
@@ -232,7 +232,7 @@ $navbarBackground: $white;
 $navbarBorder: 1px solid $gray-5;
 
 $navbarButtonBackground: lighten($navbarBackground, 3%);
-$navbarButtonBackgroundHighlight: lighten($navbarBackground, 5%);
+$navbarButtonBackgroundHighlight: $orange;
 
 $navbar-button-border: $gray-4;
 

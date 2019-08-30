@@ -199,7 +199,7 @@ li.sidemenu-org-switcher {
 
 .sidemenu__logo {
   display: block;
-  padding: 6px 14px 6px 9px;
+  padding: 0px;
   min-height: $navbarHeight;
   position: relative;
   height: $navbarHeight - 1px;
@@ -209,9 +209,9 @@ li.sidemenu-org-switcher {
   }
 
   img {
-    width: 30px;
+    width: 50px;
     position: relative;
-    top: 5px;
+    top: 4px;
     left: 4px;
   }
 }

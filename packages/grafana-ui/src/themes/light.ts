@@ -19,7 +19,7 @@ const basicColors = {
   gray3: '#acb6bf',
   gray4: '#c7d0d9',
   gray5: '#dde4ed',
-  gray6: '#e9edf2',
+  gray6: '#B6B6B6',
   gray7: '#f7f8fa',
   grayBlue: '#212327', // not used in light theme
   blueBase: '#3274d9',
@@ -28,14 +28,14 @@ const basicColors = {
   blueFaint: '#f5f9ff',
   redBase: '#e02f44',
   redShade: '#c4162a',
-  greenBase: '#3eb15b',
-  greenShade: '#369b4f',
+  greenBase: '#0088D1',
+  greenShade: '#33BBFF',
   blue: '#0083b3',
   red: '#d44939',
   yellow: '#ff851b',
   purple: '#9954bb',
   variable: '#007580',
-  orange: '#ff7941',
+  orange: '#0088D1',
 };
 
 const lightTheme: GrafanaTheme = {

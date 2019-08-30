@@ -21,8 +21,8 @@ $blue-base: #3274d9;
 $blue-shade: #1f60c4;
 $red-base: #e02f44;
 $red-shade: #c4162a;
-$green-base: #299c46;
-$green-shade: #23843b;
+$green-base: #0088d1;
+$green-shade: #33bbff;
 
 // Grays
 // -------------------------
@@ -53,31 +53,31 @@ $white: #ffffff;
 $blue: #33b5e5;
 $red: $red-base;
 $yellow: #ecbb13;
-$orange: #eb7b18;
+$orange: #0088d1;
 $purple: #9933cc;
 $variable: #32d1df;
 
-$brand-primary: #eb7b18;
-$brand-success: #299c46;
-$brand-warning: #eb7b18;
+$brand-primary: #0088d1;
+$brand-success: #0088d1;
+$brand-warning: #e02f44;
 $brand-danger: #e02f44;
 
 $query-red: #e02f44;
 $query-green: #74e680;
 $query-purple: #fe85fc;
-$query-orange: #eb7b18;
+$query-orange: #0088d1;
 $query-keyword: #66d9ef;
 
 // Status colors
 // -------------------------
-$online: #299c46;
+$online: #0088d1;
 $warn: #f79520;
 $critical: #e02f44;
 
 // Scaffolding
 // -------------------------
-$body-bg: #161719;
-$page-bg: #161719;
+$body-bg: #000000;
+$page-bg: #000000;
 
 $body-color: #d8d9da;
 $text-color: #d8d9da;
@@ -92,9 +92,9 @@ $textShadow: none;
 // gradients
 $brand-gradient: linear-gradient(
   to right,
-  rgba(255, 213, 0, 0.7) 0%,
-  rgba(255, 68, 0, 0.7) 99%,
-  rgba(255, 68, 0, 0.7) 100%
+  rgba(0, 136, 209, 0.5) 0%,
+  rgba(0, 136, 209, 1) 99%,
+  rgba(0, 136, 209, 1) 100%
 );
 
 $page-gradient: linear-gradient(180deg, $dark-5 10px, dark-2 100px);
@@ -358,14 +358,14 @@ $variable-option-bg: $dropdownLinkBackgroundHover;
 $switch-bg: $input-bg;
 $switch-slider-color: $dark-3;
 $switch-slider-off-bg: $gray-1;
-$switch-slider-on-bg: linear-gradient(90deg, #eb7b18, #d44a3a);
+$switch-slider-on-bg: linear-gradient(90deg, #0088d1, #000000);
 $switch-slider-shadow: 0 0 3px black;
 
 //Checkbox
 // -------------------------
 $checkbox-bg: $dark-1;
 $checkbox-border: 1px solid $gray-1;
-$checkbox-checked-bg: linear-gradient(0deg, #eb7b18, #d44a3a);
+$checkbox-checked-bg: linear-gradient(0deg, #0088d1, #000000);
 $checkbox-color: $dark-1;
 
 //Panel Edit
@@ -391,7 +391,7 @@ $panel-grid-placeholder-shadow: 0 0 4px $blue-shade;
 $logs-color-unkown: $gray-2;
 
 // toggle-group
-$button-toggle-group-btn-active-bg: linear-gradient(90deg, #eb7b18, #d44a3a);
+$button-toggle-group-btn-active-bg: linear-gradient(90deg, #0088d1, #000000);
 $button-toggle-group-btn-active-shadow: inset 0 0 4px $black;
 $button-toggle-group-btn-seperator-border: 1px solid $dark-2;
 

@@ -9,7 +9,7 @@
 <defs>
 <linearGradient id="paint0_linear" x1="27" y1="0" x2="27" y2="54" gradientUnits="userSpaceOnUse">
 <stop stop-color="#D44A3A"/>
-<stop offset="1" stop-color="#EB7B18"/>
+<stop offset="1" stop-color="#0088D1"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="27" y1="2.01165e-07" x2="27" y2="54" gradientUnits="userSpaceOnUse">
 <stop stop-color="#D44A3A"/>
@@ -24,7 +24,7 @@
 <stop offset="1" stop-color="#FEBC11"/>
 </linearGradient>
 <linearGradient id="paint4_linear" x1="57" y1="54" x2="57" y2="7.55191e-06" gradientUnits="userSpaceOnUse">
-<stop stop-color="#EB7B18"/>
+<stop stop-color="#0088D1"/>
 <stop offset="1" stop-color="#D44A3A"/>
 </linearGradient>
 </defs>
