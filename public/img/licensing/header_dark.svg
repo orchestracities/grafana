@@ -43,8 +43,8 @@
       <stop offset="0.9979" stop-color="#144796"/>
     </linearGradient>
     <linearGradient id="paint3_linear" x1="1369.76" y1="111.295" x2="1375.77" y2="101.49" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FADE2A"/>
-      <stop offset="0.999" stop-color="#00E5B9"/>
+      <stop stop-color="#ccedff"/>
+      <stop offset="0.999" stop-color="#33b8ff"/>
     </linearGradient>
     <clipPath id="clip0">
       <path d="M0 0H1440V137H0V0Z" fill="white"/>

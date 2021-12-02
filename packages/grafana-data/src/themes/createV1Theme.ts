@@ -120,18 +120,18 @@ export function createV1Theme(theme: Omit<GrafanaTheme2, 'v1'>): GrafanaTheme {
     gray3: '#b3b3b3',
     gray4: '#d8d9da',
     gray5: '#ececec',
-    gray6: '#f4f5f8', // not used in dark theme
-    gray7: '#fbfbfb', // not used in dark theme
+    gray6: '#0088D1', // not used in dark theme
+    gray7: '#33BBFF', // not used in dark theme
     redBase: '#e02f44',
     redShade: '#c4162a',
-    greenBase: '#299c46',
-    greenShade: '#23843b',
+    greenBase: '#0088D1',
+    greenShade: '#33BBFF',
     red: '#d44a3a',
     yellow: '#ecbb13',
     purple: '#9933cc',
     variable: '#32d1df',
-    orange: '#eb7b18',
-    orangeDark: '#ff780a',
+    orange: '#0088D1',
+    orangeDark: '#0085cc',
   };
 
   const backgrounds = {
@@ -241,7 +241,7 @@ const commonColorsPalette = {
   gray05: '#0b0c0e',
 
   // New blues palette used by next-gen form elements
-  blue95: '#5794f2', // blue95
+  blue95: '#0074b3', // blue95
   blue85: '#33a2e5', // blueText
   blue80: '#3274d9', // blue80
   blue77: '#1f60c4', // blue77

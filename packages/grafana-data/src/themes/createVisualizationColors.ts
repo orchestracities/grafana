@@ -113,9 +113,9 @@ function getDarkHues(): ThemeVizHue[] {
       name: 'orange',
       shades: [
         { color: '#FFCB7D', name: 'super-light-orange', aliases: [] },
-        { color: '#FFB357', name: 'light-orange', aliases: [] },
+        { color: '#0088d1', name: 'light-orange', aliases: [] },
         { color: '#FF9830', name: 'orange', aliases: [], primary: true },
-        { color: '#FF780A', name: 'semi-dark-orange', aliases: [] },
+        { color: '#0085cc', name: 'semi-dark-orange', aliases: [] },
         { color: '#FA6400', name: 'dark-orange', aliases: [] },
       ],
     },
@@ -144,7 +144,7 @@ function getDarkHues(): ThemeVizHue[] {
       shades: [
         { color: '#C0D8FF', name: 'super-light-blue', aliases: [] },
         { color: '#8AB8FF', name: 'light-blue', aliases: [] },
-        { color: '#5794F2', name: 'blue', aliases: [], primary: true },
+        { color: '#0074b3', name: 'blue', aliases: [], primary: true },
         { color: '#3274D9', name: 'semi-dark-blue', aliases: [] },
         { color: '#1F60C4', name: 'dark-blue', aliases: [] },
       ],
@@ -177,9 +177,9 @@ function getLightHues(): ThemeVizHue[] {
     {
       name: 'orange',
       shades: [
-        { color: '#FFB357', name: 'super-light-orange', aliases: [] },
+        { color: '#0088d1', name: 'super-light-orange', aliases: [] },
         { color: '#FF9830', name: 'light-orange', aliases: [] },
-        { color: '#FF780A', name: 'orange', aliases: [], primary: true },
+        { color: '#0085cc', name: 'orange', aliases: [], primary: true },
         { color: '#FA6400', name: 'semi-dark-orange', aliases: [] },
         { color: '#E55400', name: 'dark-orange', aliases: [] },
       ],
@@ -208,7 +208,7 @@ function getLightHues(): ThemeVizHue[] {
       name: 'blue',
       shades: [
         { color: '#8AB8FF', name: 'super-light-blue', aliases: [] },
-        { color: '#5794F2', name: 'light-blue', aliases: [] },
+        { color: '#0074b3', name: 'light-blue', aliases: [] },
         { color: '#3274D9', name: 'blue', aliases: [], primary: true },
         { color: '#1F60C4', name: 'semi-dark-blue', aliases: [] },
         { color: '#1250B0', name: 'dark-blue', aliases: [] },

@@ -7,13 +7,13 @@
 </g>
 <defs>
 <linearGradient id="paint0_linear" x1="-2.88576e-05" y1="500" x2="1018.41" y2="-745.404" gradientUnits="userSpaceOnUse">
-<stop stop-color="#D65CD6"/>
-<stop offset="1" stop-color="#FBC55A"/>
+<stop stop-color="#b3e4ff"/>
+<stop offset="1" stop-color="#80d2ff"/>
 </linearGradient>
 <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(690.271 -790) rotate(90) scale(1613.94 2836)">
 <stop stop-color="#FB9D5A"/>
 <stop offset="0.505208" stop-color="#FB755A"/>
-<stop offset="1" stop-color="#FB5A67"/>
+<stop offset="1" stop-color="#00a6ff"/>
 </radialGradient>
 <radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1109 -130) rotate(90) scale(919 1635)">
 <stop offset="0.411458" stop-color="#FFA553" stop-opacity="0"/>

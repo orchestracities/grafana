@@ -283,7 +283,7 @@ const getStyles = (theme: GrafanaTheme2) => {
         }
 
         &:hover > #book-icon {
-          background: linear-gradient(#f05a28 30%, #fbca0a 99%);
+          background: linear-gradient(#0088d1 30%, #0088d1 99%);
         }
       }
     `,

@@ -91,7 +91,7 @@ const getStyles = (theme: GrafanaTheme2) => ({
     }
 
     img {
-      width: ${theme.spacing(3.5)};
+      width: ${theme.spacing(6)};
     }
 
     ${theme.breakpoints.up('md')} {

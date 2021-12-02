@@ -479,14 +479,14 @@ func (hs *HTTPServer) setIndexViewData(c *models.ReqContext) (*dtos.IndexViewDat
 		NewGrafanaVersionExists: hs.PluginManager.GrafanaHasUpdate(),
 		AppName:                 setting.ApplicationName,
 		AppNameBodyClass:        getAppNameBodyClass(hs.License.HasValidLicense()),
-		FavIcon:                 "public/img/fav32.png",
-		AppleTouchIcon:          "public/img/apple-touch-icon.png",
-		AppTitle:                "Grafana",
+		FavIcon:                 "public/img/favicon-32x32.png",
+		AppleTouchIcon:          "public/img/apple-icon.png",
+		AppTitle:                "EKZ - Dashboard",
 		NavTree:                 navTree,
 		Sentry:                  &hs.Cfg.Sentry,
 		Nonce:                   c.RequestNonce,
 		ContentDeliveryURL:      hs.Cfg.GetContentDeliveryURL(hs.License.ContentDeliveryPrefix()),
-		LoadingLogo:             "public/img/grafana_icon.svg",
+		LoadingLogo:             "public/img/ekz_logo.png",
 	}
 
 	if hs.Cfg.FeatureToggles["accesscontrol"] {

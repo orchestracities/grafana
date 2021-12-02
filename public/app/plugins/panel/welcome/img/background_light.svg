@@ -47,28 +47,28 @@
 <use xlink:href="#image0"/>
 </pattern>
 <linearGradient id="paint0_linear" x1="592.345" y1="1219.34" x2="1332.58" y2="1175.07" gradientUnits="userSpaceOnUse">
-<stop offset="0.1587" stop-color="#DFEDF8" stop-opacity="0"/>
-<stop offset="1" stop-color="#F9FCFF"/>
+<stop offset="0.1587" stop-color="#e6f6ff" stop-opacity="0"/>
+<stop offset="1" stop-color="#ffffff"/>
 </linearGradient>
 <linearGradient id="paint1_linear" x1="1752.99" y1="-360.633" x2="1898.86" y2="1230.78" gradientUnits="userSpaceOnUse">
-<stop offset="0.1587" stop-color="#C0E5FF" stop-opacity="0.29"/>
-<stop offset="0.768" stop-color="#FEFFFF"/>
+<stop offset="0.1587" stop-color="#b3e4ff" stop-opacity="0.29"/>
+<stop offset="0.768" stop-color="#FFFFFF"/>
 </linearGradient>
 <linearGradient id="paint2_linear" x1="1652.28" y1="990.354" x2="1698.04" y2="990.354" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FADE2A"/>
-<stop offset="1" stop-color="#F05A28"/>
+<stop stop-color="#ccedff"/>
+<stop offset="1" stop-color="#0088d1"/>
 </linearGradient>
 <linearGradient id="paint3_linear" x1="359.895" y1="128.843" x2="384.895" y2="128.843" gradientUnits="userSpaceOnUse">
-<stop stop-color="#5794F2"/>
-<stop offset="1" stop-color="#8936B2"/>
+<stop stop-color="#0074b3"/>
+<stop offset="1" stop-color="#006399"/>
 </linearGradient>
 <linearGradient id="paint4_linear" x1="1680.13" y1="415.5" x2="2042.87" y2="415.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FADE2A"/>
-<stop offset="0.999" stop-color="#00E5B9"/>
+<stop stop-color="#ccedff"/>
+<stop offset="0.999" stop-color="#33b8ff"/>
 </linearGradient>
 <linearGradient id="paint5_linear" x1="1636.5" y1="628" x2="1661.5" y2="628" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FADE2A"/>
-<stop offset="0.999" stop-color="#00E5B9"/>
+<stop stop-color="#ccedff"/>
+<stop offset="0.999" stop-color="#33b8ff"/>
 </linearGradient>
 <clipPath id="clip0">
 <rect width="1920" height="1080" fill="white"/>

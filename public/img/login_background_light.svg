@@ -1766,22 +1766,22 @@ RU5ErkJggg==" transform="matrix(1 0 0 1 -303.575 -717.9606)">
 			<path class="st5" d="M258,501.5h12.5V514H258V501.5z M245.5,526.5H258V514h-12.5V526.5z"/>
 			<rect x="1810" y="923" class="st6" width="15" height="15"/>
 			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="1652.2819" y1="990.3539" x2="1698.0414" y2="990.3539">
-				<stop  offset="0" style="stop-color:#FADE2A"/>
-				<stop  offset="1" style="stop-color:#F05A28"/>
+				<stop  offset="0" style="stop-color:#ccedff"/>
+				<stop  offset="1" style="stop-color:#0088d1"/>
 			</linearGradient>
 			<path class="st7" d="M1675.2,1013.2c-12.6,0-22.9-10.3-22.9-22.9s10.3-22.9,22.9-22.9s22.9,10.3,22.9,22.9
 				S1687.8,1013.2,1675.2,1013.2z"/>
 			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="359.8948" y1="128.843" x2="384.8948" y2="128.843">
-				<stop  offset="0" style="stop-color:#5794F2"/>
-				<stop  offset="1" style="stop-color:#8936B2"/>
+				<stop  offset="0" style="stop-color:#0074b3"/>
+				<stop  offset="1" style="stop-color:#006399"/>
 			</linearGradient>
 			<path class="st8" d="M372.4,141.3c-6.9,0-12.5-5.6-12.5-12.5c0-6.9,5.6-12.5,12.5-12.5c6.9,0,12.5,5.6,12.5,12.5
 				C384.9,135.7,379.3,141.3,372.4,141.3z"/>
 			<path class="st3" d="M1387.2,524.3c-6.9,0-12.5-5.6-12.5-12.5s5.6-12.5,12.5-12.5c6.9,0,12.5,5.6,12.5,12.5
 				S1394.1,524.3,1387.2,524.3z"/>
 			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="1680.127" y1="415.5" x2="2042.873" y2="415.5">
-				<stop  offset="0" style="stop-color:#FADE2A"/>
-				<stop  offset="0.999" style="stop-color:#00E5B9"/>
+				<stop  offset="0" style="stop-color:#ccedff"/>
+				<stop  offset="0.999" style="stop-color:#33b8ff"/>
 			</linearGradient>
 			<polygon class="st9" points="1683,596.9 1680.1,594 2040,234.1 2042.9,237 			"/>
 			<g>
@@ -1790,8 +1790,8 @@ RU5ErkJggg==" transform="matrix(1 0 0 1 -303.575 -717.9606)">
 					c-32,0-58,26-58,58s26,58,58,58s58-26,58-58S1681,570,1649,570z"/>
 			</g>
 			<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="1636.5" y1="628" x2="1661.5" y2="628">
-				<stop  offset="0" style="stop-color:#FADE2A"/>
-				<stop  offset="0.999" style="stop-color:#00E5B9"/>
+				<stop  offset="0" style="stop-color:#ccedff"/>
+				<stop  offset="0.999" style="stop-color:#33b8ff"/>
 			</linearGradient>
 			<path class="st10" d="M1642.9,640.5h-6.4V627h6.4V640.5z M1652.2,621.2h-6.4v19.3h6.4V621.2z M1661.5,615.5h-6.4v25h6.4V615.5z"
 				/>
